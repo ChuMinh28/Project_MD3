@@ -1,0 +1,20 @@
+.btn-discount{
+    border-radius: 30px;
+    background-color: #131212;
+}
+.btn-newthisweek{
+    border-radius: 30px;
+}
+.btn{
+    transition-property: backgound-color;
+    transition-duration: 2s;
+}
+.btn:hover{
+    background-color: #fbb710;
+}
+.checkout:hover{
+    filter: drop-shadow(8px 8px 4px #b48307);
+}
+.createAcount{
+    font-size: 100%;
+}
